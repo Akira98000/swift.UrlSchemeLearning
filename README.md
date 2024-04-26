@@ -18,9 +18,9 @@ RedirectionApp est une application Swift qui démontre l'utilisation de l'URL Sc
 2. Assurez-vous que vous avez Swift installé sur votre système.
 3. Ouvrez un terminal et accédez au répertoire du projet.
 4. Compilez le projet en utilisant la commande suivante :
-   ```bash
+```bash
    swift build -c release
-  ```
+```
 5.Exécutez l'application en utilisant la commande suivante :
 ```bash
   .build/release/RedirectionApp
