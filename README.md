@@ -41,6 +41,5 @@ RedirectionApp est une application Swift qui démontre l'utilisation de l'URL Sc
 La notification instantanée est déclenchée en utilisant la bibliothèque UserNotifications.
 
 ## Preview de l'application 
-![RedirectionApp Preview]("https://github.com/Akira98000/swift.UrlSchemeLearning/assets/75495075/d1f86e71-067f-475e-9772-58d06e3ffd7b")
 <img width="265" alt="Capture d’écran 2024-04-26 à 13 15 15" src="https://github.com/Akira98000/swift.UrlSchemeLearning/assets/75495075/28648a49-7352-4e67-a4a5-dda4786cc8ff">
 
