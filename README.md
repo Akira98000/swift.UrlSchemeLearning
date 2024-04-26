@@ -39,3 +39,7 @@ RedirectionApp est une application Swift qui démontre l'utilisation de l'URL Sc
 2. Si une application est installée, une option "Ouvrir" est affichée, sinon une option "Installer" est affichée.
 3. Lorsque l'utilisateur sélectionne une option, l'application correspondante est ouverte ou l'utilisateur est invité à installer l'application.
 La notification instantanée est déclenchée en utilisant la bibliothèque UserNotifications.
+
+## Preview de l'application 
+![RedirectionApp Preview](<img width="265" alt="Capture d’écran 2024-04-26 à 13 15 15" src="https://github.com/Akira98000/swift.UrlSchemeLearning/assets/75495075/d1f86e71-067f-475e-9772-58d06e3ffd7b">)
+
